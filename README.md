@@ -7,8 +7,8 @@
 - Unzip the file and it will available in local machine
 
 # How To Run?
-- Open Command prompt
-
+- Open Command prompt 
+- Go Until The POM File is located
 - Write Below Command 
 "mvn clean verify serenity:aggregate"
 
